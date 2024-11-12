@@ -18,3 +18,11 @@ Este proyecto analiza la educación argentina y contrasta con la cantidad de fal
 
 - `Educacion_Argentina.ipynb`: Notebook de Jupyter con el análisis
 - 
+## 4. Instrucciones para implementación
+### Pasos iniciales con Google:
+1. Tener abierto su usuario de google
+2. Abre colab y crea un cuaderno siguiendo las instrucciones solicitadas
+3. Guarda la notebook con el nombre Educacion_Argentina.ipynb en tu repositorio
+4. Descargar la tabla creada a tu pc local, con extension csv `df.to_csv("datos_alumnos.csv", index=False)`
+
+5. 
