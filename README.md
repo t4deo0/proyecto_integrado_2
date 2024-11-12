@@ -17,7 +17,11 @@ Este proyecto analiza la educación argentina y contrasta con la cantidad de fal
 # Estructura del Proyecto
 
 - `Educacion_Argentina.ipynb`: Notebook de Jupyter con el análisis
-- 
+
+- ## 1. Utilizando Write for me en ChatGPT
+
+Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en Argentina](https://chatgpt.com/share/6733b30c-47ec-8002-8835-f98cbf4965ad)]
+
 ## 4. Instrucciones para implementación
 ### Pasos iniciales con Google:
 1. Tener abierto su usuario de google
