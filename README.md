@@ -51,4 +51,4 @@ Puede ver la presentación en [[Presentaciones sobre la Educación en Argentina]
    * Puedes ver la presentación del Informe: [[Presentaciones sobre la Educación en Argentina](**AQUI AGREGA LA DIRECCION COMPARTIDA DE WRITE FOR ME)**]`
   
 ## ENVIO DEL EXAMEN
-[[Pulsar aquí para enviar examen](https://forms.gle/Z9VaE5KzdLJJMzW68){:target="_blank"}]
+[Pulsar aquí para enviar examen](https://forms.gle/Z9VaE5KzdLJJMzW68){:target="_blank"}
