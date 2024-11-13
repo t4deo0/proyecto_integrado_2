@@ -36,5 +36,5 @@ Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en 
 ### Con "Write for me" incluido en ChatGPT
 1. Levantar el archivo "datos_alumnos.csv" y solicitar: `Utiliza estos datos de prueba para generar un informe sobre Educación de Argentina que no supere las 5 paginas, armando una tabla estadistica descriptiva, incluye referencias.`
 2. Dentro del Repositorio de Github, en el README agregar:
-  a. ## 1. Utilizando Write for me en ChatGPT
+  * `## 1. Utilizando Write for me en ChatGPT
             Puedes ver el Informe escrito en: `[[Informe Estadístico sobre la Educación en Argentina](AQUI AGREGA LA DIRECCION COMPARTIDA DE WRITE FOR ME)]`
