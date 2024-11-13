@@ -42,7 +42,7 @@ Puede ver la presentación en [[Presentaciones sobre la Educación en Argentina]
    * `## 1. Utilizando Write for me en ChatGPT
             Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en Argentina](**AQUI AGREGA LA DIRECCION COMPARTIDA DE WRITE FOR ME)**]`
 
-### Con "Gamma.app" [[Gamma](https://gamma.app)]{:target="_blank"} realicemos presentaciones 
+### Con "Gamma.app" [[Gamma](https://gamma.app)]
 1. Utilizar el informe realizado por Write for me y pegar en la app `https://gamma.app/create/paste` que no tenga más de 5 tarjetas.
 2. Copiar en enlace ahora aquí:
    * Puedes ver la presentación del Informe: [[Presentaciones sobre la Educación en Argentina](**AQUI AGREGA LA DIRECCION COMPARTIDA DE WRITE FOR ME)**]`
