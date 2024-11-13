@@ -20,10 +20,10 @@ Este proyecto analiza la educación argentina y contrasta con la cantidad de fal
 
 - ## 1. Utilizando Write for me en ChatGPT
 
-Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en Argentina](https://chatgpt.com/share/6733b30c-47ec-8002-8835-f98cbf4965ad)]{:target="_blank"}
+Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en Argentina](https://chatgpt.com/share/6733b30c-47ec-8002-8835-f98cbf4965ad)]
 
 - ## 2. Presentación del Informe
-Puede ver la presentación en [[Presentaciones sobre la Educación en Argentina](https://gamma.app/docs/Informe-Estadistico-sobre-la-Educacion-en-Argentina-hjll5qzle9v1vjy)]{:target="_blank"}
+Puede ver la presentación en [[Presentaciones sobre la Educación en Argentina](https://gamma.app/docs/Informe-Estadistico-sobre-la-Educacion-en-Argentina-hjll5qzle9v1vjy)]
 ## 4. Instrucciones para implementación
 ### En Gitub, crea un repositorio llamado proyecto_integrado_2
    * Con descripción: Modelo de Examen Final Tipo 2 - Este proyecto Integra conocimientos de Procesador de Texto, Planillas de calculo,, Github, Colab, Publicacion. 
