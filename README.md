@@ -20,8 +20,10 @@ Este proyecto analiza la educación argentina y contrasta con la cantidad de fal
 
 - ## 1. Utilizando Write for me en ChatGPT
 
-Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en Argentina](https://chatgpt.com/share/6733b30c-47ec-8002-8835-f98cbf4965ad)]
+Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en Argentina](https://chatgpt.com/share/6733b30c-47ec-8002-8835-f98cbf4965ad)]{:target="_blank"}
 
+- ## 2. Presentación del Informe
+Puede ver la presentación en [[Presentaciones sobre la Educación en Argentina](https://gamma.app/docs/Informe-Estadistico-sobre-la-Educacion-en-Argentina-hjll5qzle9v1vjy)]{:target="_blank"}
 ## 4. Instrucciones para implementación
 ### En Gitub, crea un repositorio llamado proyecto_integrado_2
    * Con descripción: Modelo de Examen Final Tipo 2 - Este proyecto Integra conocimientos de Procesador de Texto, Planillas de calculo,, Github, Colab, Publicacion. 
@@ -33,8 +35,14 @@ Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en 
    * Solicita a prompt Gemini: Armar grafico de barras con Promedio general de cada materia, ordenados de mayor a menor, agregar las faltas como valor constrastable en dos ejes. Agregar las leyendas que ayuden a la interpretación.
    * Descargar la tabla creada a tu pc local, con extension csv `df.to_csv("datos_alumnos.csv", index=False)`
 4. Guarda la notebook con el nombre Educacion_Argentina.ipynb en tu repositorio
-### Con "Write for me" incluido en ChatGPT
+
+### Con "Write for me" incluido en ChatGPT [[Write For Me](https://chatgpt.com/g/g-B3hgivKK9-write-for-me)]{:target="_blank"}
 1. Levantar el archivo "datos_alumnos.csv" y solicitar: `Utiliza estos datos de prueba para generar un informe sobre Educación de Argentina que no supere las 5 paginas, armando una tabla estadistica descriptiva, incluye referencias.`
-2. Dentro del Repositorio de Github, en el README agregar:
-  * `## 1. Utilizando Write for me en ChatGPT
-            Puedes ver el Informe escrito en: `[[Informe Estadístico sobre la Educación en Argentina](AQUI AGREGA LA DIRECCION COMPARTIDA DE WRITE FOR ME)]`
+2. Dentro del **Repositorio de Github**, en el README agregar:
+   * `## 1. Utilizando Write for me en ChatGPT
+            Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en Argentina](**AQUI AGREGA LA DIRECCION COMPARTIDA DE WRITE FOR ME)**]`
+
+### Con "Gamma.app" [[Gamma](https://gamma.app)]{:target="_blank"} realicemos presentaciones 
+1. Utilizar el informe realizado por Write for me y pegar en la app `https://gamma.app/create/paste` que no tenga más de 5 tarjetas.
+2. Copiar en enlace ahora aquí:
+   * Puedes ver la presentación del Informe: [[Presentaciones sobre la Educación en Argentina](**AQUI AGREGA LA DIRECCION COMPARTIDA DE WRITE FOR ME)**]`
