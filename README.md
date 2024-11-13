@@ -48,7 +48,7 @@ Puede ver la presentación en [[Presentaciones sobre la Educación en Argentina]
 ### Con "Gamma.app" [[Gamma](https://gamma.app)]
 1. Utilizar el informe realizado por Write for me y pegar en la app `https://gamma.app/create/paste` que no tenga más de 5 tarjetas.
 2. Copiar en enlace ahora aquí:
-   * Puedes ver la presentación del Informe: [[Presentaciones sobre la Educación en Argentina](**AQUI AGREGA LA DIRECCION COMPARTIDA DE WRITE FOR ME)**]`
+   * Puedes ver la presentación del Informe: [[Presentaciones sobre la Educación en Argentina](**AQUI AGREGA LA DIRECCION COMPARTIDA DE GAMMA.APP)**]`
   
 ## ENVIO DEL EXAMEN
 [Pulsar aquí para enviar examen](https://forms.gle/Z9VaE5KzdLJJMzW68)
