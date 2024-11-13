@@ -36,7 +36,7 @@ Puede ver la presentación en [[Presentaciones sobre la Educación en Argentina]
    * Descargar la tabla creada a tu pc local, con extension csv `df.to_csv("datos_alumnos.csv", index=False)`
 4. Guarda la notebook con el nombre Educacion_Argentina.ipynb en tu repositorio
 
-### Con "Write for me" incluido en ChatGPT [[Write For Me](https://chatgpt.com/g/g-B3hgivKK9-write-for-me)]{:target="_blank"}
+### Con "Write for me" incluido en ChatGPT [[Write For Me](https://chatgpt.com/g/g-B3hgivKK9-write-for-me)]
 1. Levantar el archivo "datos_alumnos.csv" y solicitar: `Utiliza estos datos de prueba para generar un informe sobre Educación de Argentina que no supere las 5 paginas, armando una tabla estadistica descriptiva, incluye referencias.`
 2. Dentro del **Repositorio de Github**, en el README agregar:
    * `## 1. Utilizando Write for me en ChatGPT
