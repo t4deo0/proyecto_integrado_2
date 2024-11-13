@@ -3,8 +3,8 @@ Modelo de Examen Final Tipo 2 - Este proyecto Integra conocimientos de Procesado
 
 # Propuesta de examen
 **Objetivo:**
+* Generar Repositorio en Github y todo este enlazado en este lugar
 * Generar nuevos datos con analisis estadístico en colab
-* Guardar en Github
 * Generar un Informe en Write For Me
 * Armar Presentación en Gamma.app
 * Enviar examen con enlace de Github
