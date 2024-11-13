@@ -3,10 +3,11 @@ Modelo de Examen Final Tipo 2 - Este proyecto Integra conocimientos de Procesado
 
 # Propuesta de examen
 **Objetivo:**
-* Crear archivos y aplicar formatos necesarios con aplicaciones google.
 * Generar nuevos datos con analisis estadístico en colab
 * Guardar en Github
-* Publicar en netlify
+* Generar un Informe en Write For Me
+* Armar Presentación en Gamma.app
+* Enviar examen con enlace de Github
 
 ---
 
